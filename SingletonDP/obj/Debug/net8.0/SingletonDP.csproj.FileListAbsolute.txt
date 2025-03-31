@@ -1,0 +1,15 @@
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\bin\Debug\net8.0\SingletonDP.exe
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\bin\Debug\net8.0\SingletonDP.deps.json
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\bin\Debug\net8.0\SingletonDP.runtimeconfig.json
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\bin\Debug\net8.0\SingletonDP.dll
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\bin\Debug\net8.0\SingletonDP.pdb
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfoInputs.cache
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfo.cs
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.csproj.CoreCompileInputs.cache
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.sourcelink.json
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.dll
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\refint\SingletonDP.dll
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.pdb
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\SingletonDP.genruntimeconfig.cache
+F:\test\C#\Design Patterns\SingletonDP\SingletonDP\SingletonDP\obj\Debug\net8.0\ref\SingletonDP.dll
